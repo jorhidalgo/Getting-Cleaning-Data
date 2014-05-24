@@ -1,4 +1,4 @@
-Study Design
+Study Design 
 
 The description of the data set was obtained from the following website: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
