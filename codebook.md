@@ -1,4 +1,4 @@
-Study Design 
+STUDY DESIGN
 
 The description of the data set was obtained from the following website: 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -33,7 +33,7 @@ The X_train and X_test files have 561 columns. These number matches with the num
 For the analysis, it is considered that the each column in "features" matches with the corresponding in "X_train" 
 and "X_test"  to identify the description. This description will be used to select the columns that correspond to "mean" or "std"
 
-Code Book
+CODE BOOK
 
 The file result_tydy.txt has 89 columns. The field separator is a comma. The first column of the file is a unique identifier
 Following is a description of the remaining columns:
@@ -135,7 +135,7 @@ Average_angle.X.gravitymean.
 Average_angle.Y.gravitymean.
 Average_angle.Z.gravitymean.
 
-Instruction List
+INSTRUCTION LIST
 
 The attached run_analysis.R file performs the following tasks:
 - Read the zip file
